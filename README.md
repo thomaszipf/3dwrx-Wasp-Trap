@@ -11,7 +11,7 @@ Since in Germany wasps get very annoying, I decided to test some wasp traps here
   <img 
     width="800"
     height="800"
-    src="https://github.com/thomaszipf/3dwrx-Wasp-Trap/blob/main/Images/Images/Wasp-Trap.PNG"
+    src="https://github.com/thomaszipf/3dwrx-Wasp-Trap/blob/main/Images/Wasp-Trap.PNG"
   >
 </p>
 
