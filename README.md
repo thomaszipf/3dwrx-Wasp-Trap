@@ -9,9 +9,9 @@ Since in Germany wasps get very annoying, I decided to test some wasp traps here
 
 <p align="center">
   <img 
-    width="800"
+    width="600"
     height="800"
-    src="https://github.com/thomaszipf/3dwrx-Wasp-Trap/blob/main/Images/Wasp-Trap.PNG"
+    src="https://github.com/thomaszipf/3dwrx-Wasp-Trap/blob/main/Images/Wasp-Trap.png"
   >
 </p>
 
